@@ -4,9 +4,9 @@ Implementation of an Unscented Kalman Filter used for attitute estimation for qu
 ## Results
 The filtering performance is compared against ground truth provided by the Vicon system
 * Trial 1
+<img src="./results/2.png" alt="img1"  width="600" />
 
-![](./results/2.png)
 
 * Trial 2
 
-![](./results/3.png)
+<img src="./results/3.png" alt="img1"  width="600" />
